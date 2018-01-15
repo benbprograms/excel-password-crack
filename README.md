@@ -10,7 +10,7 @@ how to use:
 7) click on "insert" and add in a button
 8) click on "new" in the window that pops up
 9) delete everything that is in the window and replace it with the contents of "macro.vb"
-10) minimeze the window
+10) minimize the window
 11) right click the button and click on "assign macro"
 12) choose "AllInternalPasswords" and click "ok"
 13) click the button
