@@ -14,7 +14,7 @@ how to use:
 11) right click the button and click on "assign macro"
 12) choose "AllInternalPasswords" and click "ok"
 13) click the button
-14) click "ok" a few times
+14) click "ok" a few times this will take a while so make yourself a cup of coffee or something
 
 
 Any issues drop me an email at benbprograms@gmail.com with the subject "HELP: "excel-password-crack"
