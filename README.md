@@ -14,5 +14,6 @@ how to use:
 11) right click the button and click on "assign macro"
 12) choose "AllInternalPasswords" and click "ok"
 13) click the button
-
-Any issues drop me an email at benbprograms@gmail.com with the subject "HELP: excel-password-crack"
+14) click "ok" a few times
+Any issues drop me an email at benbprograms@gmail.com with the subject "HELP: "excel-password-crack"
+for feedback drop me an email at benbprograms@gmail.comwith the subject "FEEDBACK: "excel-password-crack"
