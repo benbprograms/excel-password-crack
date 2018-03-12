@@ -1,12 +1,5 @@
   Public Sub AllInternalPasswords()
-        ' Breaks worksheet and workbook structure passwords. Bob McCormick 
-        '  probably originator of base code algorithm modified for coverage 
-        '  of workbook structure / windows passwords and for multiple passwords
-        '
-        ' Norman Harker and JE McGimpsey 27-Dec-2002 (Version 1.1)
-        ' Modified 2003-Apr-04 by JEM: All msgs to constants, and
-        '   eliminate one Exit Sub (Version 1.1.1)
-        ' Reveals hashed passwords NOT original passwords
+        
         Const DBLSPACE As String = vbNewLine & vbNewLine
         Const AUTHORS As String = DBLSPACE & vbNewLine & _
                 "Adapted from Bob McCormick base code by" & _
