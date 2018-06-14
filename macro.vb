@@ -5,9 +5,9 @@
                 "Adapted from Bob McCormick base code by" & _
                 "Norman Harker and JE McGimpsey"
         Const HEADER As String = "AllInternalPasswords User Message"
-        Const VERSION As String = DBLSPACE & "Version 1.1.1 2003-Apr-04"
+        Const VERSION As String = DBLSPACE & "Version 1.1.1 4-4-17"
         Const REPBACK As String = DBLSPACE & "Please report failure " & _
-                "to the microsoft.public.excel.programming newsgroup."
+  "to benbprograms@gmail.com"
         Const ALLCLEAR As String = DBLSPACE & "The workbook should " & _
                 "now be free of all password protection, so make sure you:" & _
                 DBLSPACE & "SAVE IT NOW!" & DBLSPACE & "and also" & _
